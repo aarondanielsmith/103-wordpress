@@ -245,7 +245,7 @@ input[type="button"],
 input[type="submit"] {
 	font: 700 1.125em/3.5 'Montserrat', 'OpenSans', Arial, sans-serif;
 	color: #fff;
-	background: #45ac9d;
+	background: #c18c5f;
 	border: none;
 	padding: 0 2em;
 }
@@ -266,8 +266,8 @@ body {
 }
 body {
 	background: #fff;
-	border-top: 6px solid #45ac9d;
-	color: #3b3b3b;
+	border-top: 6px solid #c18c5f;
+	color: #333842;
 	font-size: 16px;
 	font-size: 1em;
 	line-height: 1.65;
@@ -290,7 +290,7 @@ body {
 	float: left;
 }
 .page-header .top-logo .title {
-	color: #45ac9d;
+	color: #c18c5f;
 	font: 700 1.88em/1.3125 'Montserrat', 'OpenSans', Arial, sans-serif;
 	letter-spacing: -0.034em;
 	display: block;
@@ -318,7 +318,7 @@ body {
 	text-transform: uppercase;
 }
 .page-header .top-nav ul li:hover > a{
-	border-bottom: 1px solid #45ac9d;
+	border-bottom: 1px solid #c18c5f;
 }
 .page-header .top-nav ul ul {
 	text-indent: 2em;
@@ -414,10 +414,10 @@ body {
 	text-decoration: none;
 }
 .entry-title a:hover {
-	color: #45ac9d;
+	color: #c18c5f;
 }
 .entry-time {
-	color: #45ac9d;
+	color: #c18c5f;
 	font: 600 .82em/1.65 'OpenSans', Arial, sans-serif;
 }
 .category .page-title {
@@ -426,10 +426,10 @@ body {
 	margin: 0;
 }
 .category .page-title span {
-	color: #45ac9d;
+	color: #c18c5f;
 }
 .entry-summary a {
-	color: #45ac9d;
+	color: #c18c5f;
 	text-decoration: underline;
 	font-weight: 600;
 }
@@ -452,17 +452,17 @@ body {
 	font-size: 13px;
 	font-size: .8em;
 	font-family: 'OpenSans', Arial, sans-serif;
-	color: #45ac9d;
+	color: #c18c5f;
 	font-weight: 600;
 	text-transform: uppercase;
 	text-decoration: none;
 	margin-top: 1em;
 }
 .post-entry .read-more span {
-	color: #3b3b3b;
+	color: #333842;
 }
 .post-entry .read-more a:hover {
-	border-bottom: 1px solid #45ac9d;
+	border-bottom: 1px solid #c18c5f;
 }
 .entry-footer .entry-terms {
 	color: #a6a6a6;
@@ -472,13 +472,13 @@ body {
 	margin-top: 1.5em;
 }
 .entry-footer .entry-terms a {
-	color: #3b3b3b;
+	color: #333842;
 	font-weight: 600;
 	text-decoration: none;
 	text-transform: capitalize;
 }
 .entry-footer .entry-terms a:hover {
-	border-bottom: 1px solid #45ac9d;
+	border-bottom: 1px solid #c18c5f;
 }
 .entry-terms span {
 	font-weight: normal;
@@ -520,7 +520,7 @@ body {
 	border-radius: 50%; /* style not defined by the challenge code but an option to match image to site design */
 }
 #sidebar .widget_text a {
-	color: #3b3b3b;
+	color: #333842;
 	font-weight: 700;
 	text-decoration: underline;
 }
@@ -548,7 +548,7 @@ body {
 	border-left: none;
 	font: .875em/1.75em 'Open Sans', Arial, sans-serif;
 	height: 2.6em;
-	background: url('img/white-arrow-right.png') no-repeat center #45ac9d;
+	background: url('img/white-arrow-right.png') no-repeat center #c18c5f;
 	color: #ffffff;
 	margin-left: -5px;
 	padding: 0;
@@ -557,18 +557,18 @@ body {
 #sidebar .widget_categories h2,
 #sidebar .widget_archive h2 {
 	font: 700 .875em/1.75 'OpenSans', Arial, sans-serif;
-	color: #45ac9d;
+	color: #c18c5f;
 	margin: 0 auto 1.25em;
 }
 #sidebar .widget_categories ul li,
 #sidebar .widget_archive ul li {
 	font: 600 .875em/1.5 'OpenSans', Arial, sans-serif;
-	color: #3b3b3b;
+	color: #333842;
 	margin-bottom: 1em;
 }
 #sidebar .widget_categories ul li a,
 #sidebar .widget_archive ul li a {
-	color: #3b3b3b;
+	color: #333842;
 }
 /* End SIDEBAR STYLES */
 
@@ -595,7 +595,7 @@ body {
 }
 #navigation .left a,
 #navigation .right a {
-	color: #45ac9d;
+	color: #c18c5f;
 	text-decoration: none;
 	font-weight: 600;
 	text-transform: uppercase;
@@ -667,7 +667,7 @@ body {
 	float: right;
 }
 .comment-list .comment a {
-	color: #45ac9d;
+	color: #c18c5f;
 	text-decoration: none;
 }
 .comment-list .comment a:hover {
@@ -678,13 +678,13 @@ body {
 	text-transform: capitalize;
 }
 .comments-area .comment-reply-title {
-	color: #45ac9d;
+	color: #c18c5f;
 	font: 700 1.176em/1.75 'Montserrat', 'OpenSans', Arial, sans-serif;
 	text-transform: uppercase;
 	margin: 2em 0 1em;
 }
 .comments-area .comment-reply-title a {
-	color: #45ac9d;
+	color: #c18c5f;
 }
 .comments-area .comment-reply-title a:hover {
 	text-decoration: underline;
@@ -711,7 +711,7 @@ body {
 	border: 1px solid #BFBFBF;
 }
 .comments-area .comment-form p a {
-	color: #45ac9d;
+	color: #c18c5f;
 }
 .comments-area .comment-form p a:hover {
 	text-decoration: underline;
@@ -730,7 +730,7 @@ body {
 	border: 1px solid #BFBFBF;
 }
 .comments-area .comment-form input[type="submit"] {
-	background: #45ac9d;
+	background: #c18c5f;
 	width: 12.875em;
 	height: 3.5em;
 	font: 700 1.25em/2.5 'Montserrat', 'OpenSans', Arial, sans-serif;
@@ -744,7 +744,7 @@ body {
 .page .entry-title {
     font-weight: 500;
     text-align: center;
-    border-bottom: 0.07em solid #45ac9d;
+    border-bottom: 0.07em solid #c18c5f;
     padding-bottom: .5em;
 }
 .page-template-full-width .page-header {
@@ -825,7 +825,7 @@ body {
 .home .content p a {
 	font-weight: 600;
 	text-decoration: underline;
-	color: #3b3b3b;
+	color: #333842;
 }
 .home .content .social-btns {
 	margin-bottom: 1.875em;
@@ -861,7 +861,7 @@ body {
 	background-size: cover;
 }
 .home .btn {
-	background: #45ac9d;
+	background: #c18c5f;
 	color: #fff;
 	font: 700 1.125em/3.5 'Montserrat', 'OpenSans', Arial, sans-serif;
 	display: inline-block;
